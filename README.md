@@ -1,4 +1,4 @@
-# Mouse in a Maze Problem (Backtracking)
+# Mouse in a Maze Problem (Assembly LC-3 - Backtracking)
 
 ## Overview
 
