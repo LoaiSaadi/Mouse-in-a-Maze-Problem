@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this exercise, you will solve the classic "Mouse in a Maze" problem using exhaustive search (backtracking brute force), implemented exclusively through functions. No subroutines are allowed in the solution. Functions must adhere to a consistent coding convention.
+In this exercise, you will solve the classic "Mouse in a Maze" problem using exhaustive search (backtracking brute force), implemented exclusively through functions. Functions must adhere to a consistent coding convention.
 
 
 ## Problem Definition
